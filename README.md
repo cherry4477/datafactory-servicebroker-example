@@ -16,7 +16,8 @@ https://github.com/cloudfoundry/cloud_controller_ng/blob/965dbc4bdf65df89f382329
 -   https://github.com/pivotal-cf/cf-cassandra-example-app  
 -  https://github.com/cloudfoundry-community/postgresql-cf-service-broker  
 -  https://github.com/cloudfoundry-community/memcache-broker  
--   https://github.com/cloudfoundry-community/rds-broker  
+-   https://github.com/cloudfoundry-community/rds-broker  (go)
+-   https://github.com/saurabhguptasg/pcf-aws-data-services (java)
 -   https://github.com/cloudfoundry-community/cf-mysql-java-broker-boshrelease  
 -   https://github.com/cloudfoundry-community/java-service-broker-example   
 ###  python  
